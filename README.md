@@ -81,3 +81,5 @@ dotnet test TaxLab.Tests
 ```
 Or in Visual Studio: **Test → Run All Tests**
 
+Note: 80% code is written by AI
+
