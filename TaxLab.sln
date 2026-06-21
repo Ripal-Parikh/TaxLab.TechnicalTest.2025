@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.37301.10 d17.14
+VisualStudioVersion = 17.14.37301.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxLab", "TaxLab\TaxLab.csproj", "{6259A7BB-01DD-4392-ADAF-3C96A4E66AF3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxLab.Data", "TaxLab.Data\TaxLab.Data.csproj", "{B2C3D4E5-F6A7-8901-BCDE-F12345678901}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxLab.Worker", "TaxLab.Worker\TaxLab.Worker.csproj", "{C3D4E5F6-A7B8-9012-CDEF-123456789012}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxLab.Tests", "TaxLab.Tests\TaxLab.Tests.csproj", "{DE75F8EF-7CDB-44DD-B639-C22C076AE834}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{C3D4E5F6-A7B8-9012-CDEF-123456789012}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3D4E5F6-A7B8-9012-CDEF-123456789012}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3D4E5F6-A7B8-9012-CDEF-123456789012}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE75F8EF-7CDB-44DD-B639-C22C076AE834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE75F8EF-7CDB-44DD-B639-C22C076AE834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE75F8EF-7CDB-44DD-B639-C22C076AE834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE75F8EF-7CDB-44DD-B639-C22C076AE834}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

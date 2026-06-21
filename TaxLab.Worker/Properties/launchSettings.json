@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TaxLab.Worker": {
+      "commandName": "Project",
+      "workingDirectory": "$(SolutionDir)"
+    }
+  }
+}
